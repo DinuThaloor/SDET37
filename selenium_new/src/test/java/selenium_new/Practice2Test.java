@@ -17,5 +17,6 @@ public class Practice2Test
 		System.out.println("hello hi");
 		System.out.println("i am hemanth");
 		System.out.println("hi budyy");
+		System.out.println("apple");
 	}
 }
