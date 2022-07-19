@@ -13,6 +13,6 @@ public class Practice2Test
 	public void demo1()
 	{
 		System.out.println("Test2--.Test3");
-
+		System.out.println("hello hi");
 	}
 }
