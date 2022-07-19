@@ -14,5 +14,7 @@ public class Practice2Test
 	{
 		System.out.println("Test2--.Test3");
 		System.out.println("hello hi");
+		System.out.println("i am hemanth");
+		System.out.println("hi budyy");
 	}
 }
