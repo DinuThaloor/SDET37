@@ -19,8 +19,8 @@ public class Practice2Test
 		System.out.println("hi budyy");
 		System.out.println("apple");
 		System.out.println("apple phone");
-		//new change
-		System.out.println("made some change");
+		//new change updated
+		System.out.println("new change");
 		
 	}
 }
