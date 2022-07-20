@@ -12,6 +12,9 @@ public class Practice2Test
 	@Test
 	public void demo1()
 	{
+		String BROWSER=System.getProperty("browser");
+		String URL=System.getProperty("url");
+		
 		System.out.println("Test2--.Test3");
 		//gd afternoon
 		System.out.println("hello hi");
@@ -21,6 +24,7 @@ public class Practice2Test
 		System.out.println("apple phone");
 		//new change updated
 		System.out.println("new change");
+		
 		
 	}
 }
